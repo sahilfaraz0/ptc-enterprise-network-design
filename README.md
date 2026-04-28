@@ -1,5 +1,5 @@
 # Enterprise Network Design (Cisco Packet Tracer)
-Enterprise network design and simulation for PTC Inc. (A Hyptothectical Company) using Cisco Packet Tracer.
+
 # Network Implementation, Optimization, and Maintenance for PTC Inc.
 
 **Author:** Sahil Faraz | **Date:** February 2025
