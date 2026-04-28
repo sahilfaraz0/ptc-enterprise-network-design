@@ -27,6 +27,11 @@ The network utilizes a **Star Topology** for easy management and high availabili
 ![R1-GIG1](images/R1-GIG1.png)
 ![R1-GIG2](images/R1-GIG2.png)
 
+## Router 2 Configs
+![R2-GIG0](images/R2-GIG0.png)
+![R2-GIG1](images/R2-GIG1.png)
+![R2-GIG2](images/R2-GIG2.png)
+
 ### VLAN Segmentation & IP Addressing
 | VLAN Name | Subnet | Purpose |
 | :--- | :--- | :--- |
