@@ -4,7 +4,7 @@
 
 **Author:** Sahil Faraz | **Date:** February 2025
 
-![Network Topology](images/network-diagram.png) *(Replace with your actual image path later)*
+![Network Topology](images/network-diagram.png)
 
 ## 🎯 Objective
 This project aims to design, implement, and maintain a robust network infrastructure for PTC Inc., ensuring scalability, security, and high performance through optimized configurations, security measures, and proactive monitoring. This was developed and implemented as a part of a Networking Assignment.
